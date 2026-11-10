@@ -2,16 +2,12 @@
 
 ## Geovanny Lacouture
 
-Soy un estudiante de Ingenieria en Ciencias de la Computacion (6to Semestre). Me interesa especializarme en el analisis de datos y el desarrollo de herramientas a empresas.
-
-
-[`📫 lv.geovanny@gmail.com`](mailto:lv.geovanny@gmail.com)
-[`🐦 linkedin`](https://ec.linkedin.com/in/geovannylv)
+Soy un estudiante de Ingenieria en Ciencias de la Computacion (6to Semestre). Me interesa especializarme en el analisis de datos y el desarrollo de herramientas a empresas. 
 
 ### 👷 Que me encuentro haciendo actualmente
-Actualmente estoy estudiando Analisis de algoritmos y Desarrollo de Aplicaciones WEB y Moviles.
+Actualmente me encuentro cursando las materias de Análisis de Algoritmos y Desarrollo de Aplicaciones Web y Móviles. Con los conocimientos adquiridos, estoy diseñando un proyecto tecnológico enfocado en optimizar y brindar soluciones al sector de la ganadería ecuatoriana
 
-### 🌱 Mis ultimo proyectos
+### 🌱 Mis ultimos proyectos
 [`Proyecto de predictor `](https://github.com/geovannylv/Taws-predictor-resultados)
 [`Proyecto de landingPage `](https://github.com/geovannylv/landingPage-desfileGYE)
 
@@ -35,3 +31,7 @@ Actualmente estoy estudiando Analisis de algoritmos y Desarrollo de Aplicaciones
 * 🌐 **Cisco Networking Academy** — Introduction to Networks
 * 📊 **Microsoft Office Specialist** — Office 2026 
 * 📈 **Coursera (Google/IBM)** — Introduction to Data Analytics
+
+### Como contactarme
+[`📫 lv.geovanny@gmail.com`](mailto:lv.geovanny@gmail.com)
+[`🐦 linkedin`](https://ec.linkedin.com/in/geovannylv)
