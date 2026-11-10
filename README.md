@@ -26,7 +26,7 @@ Actualmente me encuentro cursando las materias de Análisis de Algoritmos y Desa
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-## 🏅 Certificaciones y Logros
+### 🏅 Certificaciones y Logros
 * 🇬🇧 **Cambridge Assessment English** — C1 Advanced (CAE)
 * 🌐 **Cisco Networking Academy** — Introduction to Networks
 * 📊 **Microsoft Office Specialist** — Office 2026 
