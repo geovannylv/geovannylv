@@ -1,7 +1,6 @@
-## Bienvenido! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+## Bienvenido, soy Geo! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
 ## Geovanny Lacouture
-
 
 Soy un estudiante de Ingenieria en Ciencias de la Computacion (6to Semestre). Me interesa especializarme en el analisis de datos y el desarrollo de herramientas a empresas.
 
@@ -16,10 +15,7 @@ Actualmente estoy estudiando Analisis de algoritmos y Desarrollo de Aplicaciones
 [`Proyecto de predictor `](https://github.com/geovannylv/Taws-predictor-resultados)
 [`Proyecto de landingPage `](https://github.com/geovannylv/landingPage-desfileGYE)
 
-
-
 ### 🔭 Tecnologías
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
@@ -34,7 +30,8 @@ Actualmente estoy estudiando Analisis de algoritmos y Desarrollo de Aplicaciones
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-
-### ⭐ Recent Stars
-<!-- recent-stars:start -->
-<!-- recent-stars:end -->
+## 🏅 Certificaciones y Logros
+* 🇬🇧 **Cambridge Assessment English** — C1 Advanced (CAE)
+* 🌐 **Cisco Networking Academy** — Introduction to Networks
+* 📊 **Microsoft Office Specialist** — Office 2026 
+* 📈 **Coursera (Google/IBM)** — Introduction to Data Analytics
